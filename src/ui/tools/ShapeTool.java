@@ -1,7 +1,6 @@
 package ui.tools;
 
 
-import model.Rectangle;
 import model.Shape;
 import ui.DrawingEditor;
 
